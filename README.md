@@ -35,7 +35,6 @@ I love solving real-world problems—whether it's developing **wearable assistiv
 
 - Java / Spring Boot / REST APIs  
 - Docker / Self-hosting  
-- Project architecture & DevOps basics
 
 ---
 
