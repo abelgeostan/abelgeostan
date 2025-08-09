@@ -25,9 +25,10 @@ I love solving real-world problems—whether it's developing **wearable assistiv
 
 ## 🔭 Current Focus
 
-- Spring Boot 3 & Microservices
-- Docker + Linux self-hosting
-- Cloud-native development
+- Spring Boot 3 & Microservices  
+- Docker + Linux self-hosting  
+- Cloud-native development  
+- **YOLO / Real-time Object Detection & Computer Vision**
 
 ---
 
@@ -35,6 +36,7 @@ I love solving real-world problems—whether it's developing **wearable assistiv
 
 - Java / Spring Boot / REST APIs  
 - Docker / Self-hosting  
+- **YOLO (object detection), YOLOv8, and computer vision pipelines**
 
 ---
 
@@ -52,6 +54,7 @@ I love solving real-world problems—whether it's developing **wearable assistiv
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
